@@ -1,0 +1,42 @@
+_repo: The-art-of-decorating-dry-goods-windows-and-interiors-b-A-complete-manual-of-window-trimming-__73606
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Van Dyne, Edith
+    - Bancroft, Laura
+    - Baum, Lyman Frank
+    - Metcalf, Suzanne
+    - Akers, Floyd
+    - Cooke, John Estes
+    - Fitzgerald, Capt. Hugh
+    - Fitzgerald, Hugh
+    - Staunton, Schuyler
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: https://en.wikipedia.org/wiki/L._Frank_Baum
+description: ''
+gutenberg_issued: '2024-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73606'
+language: en
+pgterms:marc904: https://collections.library.yale.edu/pdfs/17381878.pdf
+pgterms:marc905: 20210225205833baum
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Richard Tonsing, Mary Glenn Krause, Beinecke Rare Book and Manuscript
+  Library at Yale University, and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aChicago :$bThe Show Window Publishing Company, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The art of decorating dry goods windows and interiors : $b A complete manual
+  of window trimming, designed as an educator in all the details of the art, according
+  to the best accepted methods, and treating fully every important subject'
+url: http://www.gutenberg.org/ebooks/73606
