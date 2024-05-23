@@ -1,5 +1,8 @@
 _repo: The-art-of-decorating-dry-goods-windows-and-interiors-b-A-complete-manual-of-window-trimming-__73606
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73606-h/images/cover.jpg
 creator:
   author:
     agent_name: Baum, L. Frank (Lyman Frank)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42
     wikipedia: https://en.wikipedia.org/wiki/L._Frank_Baum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73606#The-art-of-decorating-dry-goods-windows-and-interiors-b-A-complete-manual-of-window-trimming-_
 gutenberg_issued: '2024-05-11'
 gutenberg_type: Text
 identifiers:
